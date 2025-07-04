@@ -17,10 +17,9 @@ Programlama Dili: TypeScript (React tabanlı)
 Backend: Next.js API Routes
 
 ⚙️ Kurulum Talimatları
-Projeyi çalıştırmak isteyen biri aşağıdaki adımları izleyebilir:
+Projeyi çalıştırmak için:
 
-Projeyi GitHub'dan klonlayın veya zip olarak indirin:
-git clone https://github.com/kullaniciadi/blog-platform.git
+Projeyi GitHub'dan klonlayın veya zip olarak indirin
 
 Proje klasörüne girin:
 cd blog-platform
